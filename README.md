@@ -1,2 +1,0 @@
-# ups-spec
-UPS Specification
